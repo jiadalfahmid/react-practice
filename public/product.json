@@ -1,0 +1,152 @@
+[
+   {
+       "product_id": 1,
+       "product_title": "Gaming Laptop",
+       "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/MSI-VECTOR-5.jpg",
+       "category": "Laptop",
+       "price": 1200,
+       "description": "High-performance gaming laptop with powerful GPU.",
+       "Specification": [
+           "16GB RAM",
+           "512GB SSD",
+           "NVIDIA GeForce GTX 1660"
+       ],
+       "availability": true,
+       "rating": 4.8
+   },
+   {
+       "product_id": 2,
+       "product_title": "Ultrabook Laptop",
+       "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/ASUS-Zenbook-14-OLED-Q415MA-Ultrabook-Laptop-4-600x450.jpg",
+       "category": "Laptop",
+       "price": 900,
+       "description": "Lightweight ultrabook with all-day battery life.",
+       "Specification": [
+           "8GB RAM",
+           "256GB SSD",
+           "Intel Core i5"
+       ],
+       "availability": true,
+       "rating": 4.6
+   },
+   {
+       "product_id": 3,
+       "product_title": "Business Laptop",
+       "product_image": "https://s3.us-east-2.amazonaws.com/ccp-prd-s3-uploads/2024/1/18/01e0c40d6c1daa811474f4daef52165d7ce213e9.jpeg",
+       "category": "Laptop",
+       "price": 1100,
+       "description": "Reliable laptop for productivity and multitasking.",
+       "Specification": [
+           "16GB RAM",
+           "1TB SSD",
+           "Intel Core i7"
+       ],
+       "availability": true,
+       "rating": 4.7
+   },
+   {
+       "product_id": 4,
+       "product_title": "Smartphone Pro",
+       "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-15-Plus-(2)-(5)-1544.jpg",
+       "category": "Phone",
+       "price": 850,
+       "description": "Feature-packed smartphone with advanced camera system.",
+       "Specification": [
+           "128GB storage",
+           "6.5-inch OLED display",
+           "Triple-lens camera"
+       ],
+       "availability": true,
+       "rating": 4.5
+   },
+   {
+       "product_id": 5,
+       "product_title": "Budget Smartphone",
+       "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Pro-Max---16-Pro-Desert-Titanium-1929.jpg",
+       "category": "Phone",
+       "price": 300,
+       "description": "Affordable smartphone with essential features.",
+       "Specification": [
+           "64GB storage",
+           "5.8-inch LCD display",
+           "Dual-lens camera"
+       ],
+       "availability": true,
+       "rating": 4.3
+   },
+   {
+       "product_id": 6,
+       "product_title": "Wireless Earbuds",
+       "product_image": "https://www.startech.com.bd/image/cache/catalog/earbuds/earfun/air-mini-2/air-mini-2-01-500x500.webp",
+       "category": "Accessories",
+       "price": 75,
+       "description": "High-quality wireless earbuds with noise cancellation.",
+       "Specification": [
+           "Battery life: 8 hours",
+           "Bluetooth 5.0",
+           "Water-resistant"
+       ],
+       "availability": true,
+       "rating": 4.5
+   },
+   {
+       "product_id": 7,
+       "product_title": "Portable Charger",
+       "product_image": "https://gadget99.com.bd/wp-content/uploads/2024/07/Hoco-CS21A-18W-EU-Wall-Charger-With-Cable.jpg.webp",
+       "category": "Accessories",
+       "price": 50,
+       "description": "Compact portable charger with fast charging capability.",
+       "Specification": [
+           "Capacity: 10000mAh",
+           "USB-C and USB-A ports",
+           "Compact design"
+       ],
+       "availability": true,
+       "rating": 4.4
+   },
+   {
+       "product_id": 8,
+       "product_title": "Smartphone Max",
+       "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Pro-Max---16-Pro-Desert-Titanium-1929.jpg",
+       "category": "Phone",
+       "price": 1200,
+       "description": "Flagship smartphone with cutting-edge technology.",
+       "Specification": [
+           "256GB storage",
+           "6.7-inch Super AMOLED display",
+           "Quad-lens camera"
+       ],
+       "availability": true,
+       "rating": 4.8
+   },
+   {
+       "product_id": 9,
+       "product_title": "Laptop Cooling Pad",
+       "product_image": "https://primecomputer.com.bd/wp-content/uploads/2024/01/1-With-2-Dual-Fana.png",
+       "category": "Accessories",
+       "price": 65,
+       "description": "Cooling pad to keep your laptop temperature in check.",
+       "Specification": [
+           "Dual cooling fans",
+           "Adjustable height",
+           "USB-powered"
+       ],
+       "availability": true,
+       "rating": 4.3
+   },
+   {
+       "product_id": 10,
+       "product_title": "Noise-Canceling Headphones",
+       "product_image": "https://assets.gadgetandgear.com/upload/product/20230530_1685430710_183928.jpeg",
+       "category": "Accessories",
+       "price": 150,
+       "description": "Over-ear headphones with active noise cancellation.",
+       "Specification": [
+           "Battery life: 20 hours",
+           "Bluetooth 5.0",
+           "Foldable design"
+       ],
+       "availability": true,
+       "rating": 4.6
+   }
+]
